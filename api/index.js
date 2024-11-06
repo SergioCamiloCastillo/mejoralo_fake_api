@@ -9,7 +9,7 @@ app.use(express.json());
 let users = [
   {
     idUser: 1,
-    name: "Lisa Torres",
+    name: "Lorraine Baines",
     urlImage:
       "https://static.wikia.nocookie.net/p__/images/7/7a/8FC51F9D-0E81-4DD3-B7EC-3D43508532D6.jpg/revision/latest?cb=20220304101815&path-prefix=protagonist",
   },
